@@ -4,7 +4,7 @@ import sys
 
 # ==================== DATA PENGGUNA ====================
 # TEMPELKAN TOKEN BARU ANDA DI SINI (Wajib ambil baru lewat F12)
-TOKEN = "MASUKKAN_TOKEN_BARU_ANDA_DISINI"
+TOKEN = "NTMzMzM5MjM0MzQyNDA0MTQ3.GP3giM.OK4nQJYZ_1wBuII9q6U_SENZWnGABOiFb9cg9o"
 CHANNEL_ID = "1541010333894836315"
 # =======================================================
 
